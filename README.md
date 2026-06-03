@@ -775,57 +775,6 @@ Steps:
 
 ---
 
-## Screenshots
-
-Add screenshots inside:
-
-```txt
-public/screenshots/
-```
-
-Recommended screenshot names:
-
-```txt
-dashboard.png
-agridoctor-ai.png
-farmweather-guard.png
-agrimarket-link.png
-farm2market.png
-krishibot-ai.png
-agricredit-ai.png
-krishivoice.png
-farmledger-ai.png
-croptime-planner.png
-machineryshare-agri.png
-reports.png
-architecture.png
-roadmap.png
-```
-
-After adding screenshots, use:
-
-```md
-## Screenshots
-
-### Dashboard
-
-![Dashboard](public/screenshots/dashboard.png)
-
-### AgriDoctor AI
-
-![AgriDoctor AI](public/screenshots/agridoctor-ai.png)
-
-### FarmWeather Guard
-
-![FarmWeather Guard](public/screenshots/farmweather-guard.png)
-
-### CropTime Planner
-
-![CropTime Planner](public/screenshots/croptime-planner.png)
-```
-
----
-
 ## Roadmap
 
 ### MVP Roadmap
