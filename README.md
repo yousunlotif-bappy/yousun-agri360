@@ -10,7 +10,7 @@ This project was built to turn an unfinished agri-tech idea into a polished, wor
 
 ## Live Demo
 
-Coming soon.
+https://yousun-agri360.vercel.app/
 
 ## GitHub Repository
 
